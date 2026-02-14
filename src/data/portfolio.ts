@@ -54,7 +54,7 @@ export const portfolio = {
         {
             company: "Kumaraguru College of Technology.",
             role: "Artificial Intelligence and Machine Learning Club",
-            period: "2024 - 2025",
+            period: "2023 - 2027",
             description: "Conducted research on LLMs (Large Language Modles) and assisted in data preprocessing for large-scale datasets.",
         },
     ],
